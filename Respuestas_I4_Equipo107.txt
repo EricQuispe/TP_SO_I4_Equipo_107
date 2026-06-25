@@ -1,0 +1,10 @@
+a - Azul 
+b - Amarillo 
+c - Azul 
+d - Quedó el de beta 
+e - Si, beta y gamma tuvieron problemas
+f - Conflictos en index.html 
+g - 1- hacer pull y merge manuales: las consecuencias se conservan 
+    2- git push -f: se sobrescribe los cambios agenos y se pierde el trabajo 
+h - Se pisan los cambios entre ysolo se queda el último que hizo el push -f 
+i - Resolver los conflictos en el index y hacer el merge de TESTING a DESARROLLO 
